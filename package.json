@@ -1,0 +1,21 @@
+{
+  "name": "hexo-bilibili-video-tag",
+  "version": "1.0.0",
+  "description": "A Hexo tag plugin for embedding Bilibili videos",
+  "main": "index.js",
+  "keywords": [
+    "hexo",
+    "plugin",
+    "bilibili",
+    "video",
+    "tag"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "hexo-util": "^2.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^11.1.0"
+  }
+}
