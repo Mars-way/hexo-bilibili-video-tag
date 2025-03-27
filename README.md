@@ -8,9 +8,14 @@ npm install --save hexo-bilibili-video-tag
 ```
 
 ## 使用方法
+在 Hexo 页面中使用以下代码嵌入 Bilibili 视频：
 插件支持BV号:
 ```bash
-{% bilibili BV1pCQKYbESJ %}
+{% bilibili $BVID$ %}
+```
+如
+```bash
+{% bilibili BV1wxoBYfEhU %}
 ```
 ---
 
